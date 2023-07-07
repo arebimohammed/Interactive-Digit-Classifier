@@ -24,6 +24,10 @@ source: https://huggingface.co/datasets/mnist
 Video of Demo for the frontend:
 
 
+
+https://github.com/arebimohammed/Interactive-Digit-Classifier/assets/69222371/1de70159-2713-4f09-872b-b5536601b8d5
+
+
 ### Metrics
 
 | class | precision | recall | f1-score | support |
